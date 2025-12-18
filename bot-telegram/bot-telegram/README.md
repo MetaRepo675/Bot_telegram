@@ -1,6 +1,6 @@
 # Telegram Bot Sample - Python
 
-A feature-rich Telegram bot created with python-telegram-bot library, designed for GitHub portfolio.
+A feature-rich Telegram bot created with python-telegram-bot library,
 
 ## 🚀 Features
 
